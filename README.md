@@ -7,4 +7,5 @@ Story Game is a simple Flutter application where users navigate through an inter
 - Two choices at each scenario affecting the storyline
 - Ability to reset the story and explore different outcomes
 
-  ![image](https://github.com/user-attachments/assets/db3e4ba6-6480-4961-bf9b-5bae6f2ffc22)
+<img src="https://github.com/user-attachments/assets/db3e4ba6-6480-4961-bf9b-5bae6f2ffc22" width="400">
+
