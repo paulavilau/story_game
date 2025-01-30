@@ -1,16 +1,10 @@
-# story_game
+# Story Game
 
-A new Flutter project.
+Story Game is a simple Flutter application where users navigate through an interactive story by making choices that shape the adventure.
 
-## Getting Started
+## Features
+- Interactive story with multiple branching paths
+- Two choices at each scenario affecting the storyline
+- Ability to reset the story and explore different outcomes
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  ![image](https://github.com/user-attachments/assets/db3e4ba6-6480-4961-bf9b-5bae6f2ffc22)
